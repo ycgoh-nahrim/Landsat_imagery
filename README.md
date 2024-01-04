@@ -1,7 +1,7 @@
 # Process Landsat (multiband satellite imagery) data
 
 For Landsat data download, check this video by Klas Karlsson <a href="https://youtu.be/M0bMUqpXkbU">QGIS User 0039 - Landsat 9</a>.
-
+<p>Satellite imagery data credit: <a href = "https://landsat.gsfc.nasa.gov/">Landsat, NASA</a></p>
 <h4>Landsat_process_composite1.R</h4>
 This code imports multiband imagery in tif format and composite them into single tif. It also crops the imagery to a fixed area. Exports into single tif.
 <br><br>
